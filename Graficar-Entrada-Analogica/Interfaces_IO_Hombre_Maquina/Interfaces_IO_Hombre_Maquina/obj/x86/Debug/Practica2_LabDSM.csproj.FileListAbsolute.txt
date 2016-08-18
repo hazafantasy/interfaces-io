@@ -1,0 +1,36 @@
+C:\Users\Haza\Desktop\Practica2_LabDSM\Practica2_LabDSM\bin\Debug\Practica2_LabDSM.exe
+C:\Users\Haza\Desktop\Practica2_LabDSM\Practica2_LabDSM\bin\Debug\Practica2_LabDSM.pdb
+C:\Users\Haza\Desktop\Practica2_LabDSM\Practica2_LabDSM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Haza\Desktop\Practica2_LabDSM\Practica2_LabDSM\obj\x86\Debug\Practica2_LabDSM.Form_Main.resources
+C:\Users\Haza\Desktop\Practica2_LabDSM\Practica2_LabDSM\obj\x86\Debug\Practica2_LabDSM.Properties.Resources.resources
+C:\Users\Haza\Desktop\Practica2_LabDSM\Practica2_LabDSM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Haza\Desktop\Practica2_LabDSM\Practica2_LabDSM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Haza\Desktop\Practica2_LabDSM\Practica2_LabDSM\obj\x86\Debug\Practica2_LabDSM.exe
+C:\Users\Haza\Desktop\Practica2_LabDSM\Practica2_LabDSM\obj\x86\Debug\Practica2_LabDSM.pdb
+E:\HAZA_DOCUMENTS\8vo_Semestre\Diseño_Sistemas_Mecatronicos_Lab\Practica2\Practica2_LabDSM\Practica2_LabDSM\obj\x86\Debug\Practica2_LabDSM.exe
+E:\HAZA_DOCUMENTS\8vo_Semestre\Diseño_Sistemas_Mecatronicos_Lab\Practica2\Practica2_LabDSM\Practica2_LabDSM\obj\x86\Debug\Practica2_LabDSM.pdb
+E:\HAZA_DOCUMENTS\8vo_Semestre\Diseño_Sistemas_Mecatronicos_Lab\Practica2\Practica2_LabDSM\Practica2_LabDSM\bin\Debug\Practica2_LabDSM.exe
+E:\HAZA_DOCUMENTS\8vo_Semestre\Diseño_Sistemas_Mecatronicos_Lab\Practica2\Practica2_LabDSM\Practica2_LabDSM\bin\Debug\Practica2_LabDSM.pdb
+E:\HAZA_DOCUMENTS\8vo_Semestre\Diseño_Sistemas_Mecatronicos_Lab\Practica2\Practica2_LabDSM\Practica2_LabDSM\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\HAZA_DOCUMENTS\8vo_Semestre\Diseño_Sistemas_Mecatronicos_Lab\Practica2\Practica2_LabDSM\Practica2_LabDSM\obj\x86\Debug\Practica2_LabDSM.Form_Main.resources
+E:\HAZA_DOCUMENTS\8vo_Semestre\Diseño_Sistemas_Mecatronicos_Lab\Practica2\Practica2_LabDSM\Practica2_LabDSM\obj\x86\Debug\Practica2_LabDSM.Properties.Resources.resources
+E:\HAZA_DOCUMENTS\8vo_Semestre\Diseño_Sistemas_Mecatronicos_Lab\Practica2\Practica2_LabDSM\Practica2_LabDSM\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\HAZA_DOCUMENTS\8vo_Semestre\Diseño_Sistemas_Mecatronicos_Lab\Practica2\Practica2_LabDSM\Practica2_LabDSM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\hazael.mojica.garcia\Desktop\Practica2_LabDSM\Practica2_LabDSM\obj\x86\Debug\Practica2_LabDSM.exe
+C:\Users\hazael.mojica.garcia\Desktop\Practica2_LabDSM\Practica2_LabDSM\obj\x86\Debug\Practica2_LabDSM.pdb
+C:\Users\hazael.mojica.garcia\Desktop\Practica2_LabDSM\Practica2_LabDSM\bin\Debug\Practica2_LabDSM.exe
+C:\Users\hazael.mojica.garcia\Desktop\Practica2_LabDSM\Practica2_LabDSM\bin\Debug\Practica2_LabDSM.pdb
+C:\Users\hazael.mojica.garcia\Desktop\Practica2_LabDSM\Practica2_LabDSM\obj\x86\Debug\Practica2_LabDSM.csprojResolveAssemblyReference.cache
+C:\Users\hazael.mojica.garcia\Desktop\Practica2_LabDSM\Practica2_LabDSM\obj\x86\Debug\Practica2_LabDSM.Properties.Resources.resources
+C:\Users\hazael.mojica.garcia\Desktop\Practica2_LabDSM\Practica2_LabDSM\obj\x86\Debug\Practica2_LabDSM.csproj.GenerateResource.Cache
+C:\Users\hazael.mojica.garcia\Desktop\Practica2_LabDSM\Practica2_LabDSM\obj\x86\Debug\Interfaces_IO_Hombre_Maquina.Form_Main.resources
+C:\Users\hazael.mojica.garcia\Desktop\Interfaces_IO_Hombre_Maquina\Practica2_LabDSM\obj\x86\Debug\Practica2_LabDSM.exe
+C:\Users\hazael.mojica.garcia\Desktop\Interfaces_IO_Hombre_Maquina\Practica2_LabDSM\obj\x86\Debug\Practica2_LabDSM.pdb
+C:\Users\hazael.mojica.garcia\Google Drive\Dropbox\drive\Update\Interfaces_IO_Proyecto\Interfaces_IO_Hombre_Maquina\Practica2_LabDSM\obj\x86\Debug\Practica2_LabDSM.csprojResolveAssemblyReference.cache
+C:\Users\hazael.mojica.garcia\Google Drive\Dropbox\drive\Update\Interfaces_IO_Proyecto\Interfaces_IO_Hombre_Maquina\Practica2_LabDSM\obj\x86\Debug\Interfaces_IO_Hombre_Maquina.Form_Main.resources
+C:\Users\hazael.mojica.garcia\Google Drive\Dropbox\drive\Update\Interfaces_IO_Proyecto\Interfaces_IO_Hombre_Maquina\Practica2_LabDSM\obj\x86\Debug\Practica2_LabDSM.Properties.Resources.resources
+C:\Users\hazael.mojica.garcia\Google Drive\Dropbox\drive\Update\Interfaces_IO_Proyecto\Interfaces_IO_Hombre_Maquina\Practica2_LabDSM\obj\x86\Debug\Practica2_LabDSM.csproj.GenerateResource.Cache
+C:\Users\hazael.mojica.garcia\Google Drive\Dropbox\drive\Update\Interfaces_IO_Proyecto\Interfaces_IO_Hombre_Maquina\Practica2_LabDSM\bin\Debug\Practica2_LabDSM.exe
+C:\Users\hazael.mojica.garcia\Google Drive\Dropbox\drive\Update\Interfaces_IO_Proyecto\Interfaces_IO_Hombre_Maquina\Practica2_LabDSM\bin\Debug\Practica2_LabDSM.pdb
+C:\Users\hazael.mojica.garcia\Google Drive\Dropbox\drive\Update\Interfaces_IO_Proyecto\Interfaces_IO_Hombre_Maquina\Practica2_LabDSM\obj\x86\Debug\Practica2_LabDSM.exe
+C:\Users\hazael.mojica.garcia\Google Drive\Dropbox\drive\Update\Interfaces_IO_Proyecto\Interfaces_IO_Hombre_Maquina\Practica2_LabDSM\obj\x86\Debug\Practica2_LabDSM.pdb

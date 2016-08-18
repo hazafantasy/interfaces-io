@@ -1,0 +1,8 @@
+C:\Users\hazael.mojica.garcia\Google Drive\Dropbox\drive\Update\Interfaces_IO_Proyecto\Interfaces_IO_Hombre_Maquina\Interfaces_IO_Hombre_Maquina\bin\Debug\Practica2_LabDSM.exe
+C:\Users\hazael.mojica.garcia\Google Drive\Dropbox\drive\Update\Interfaces_IO_Proyecto\Interfaces_IO_Hombre_Maquina\Interfaces_IO_Hombre_Maquina\bin\Debug\Practica2_LabDSM.pdb
+C:\Users\hazael.mojica.garcia\Google Drive\Dropbox\drive\Update\Interfaces_IO_Proyecto\Interfaces_IO_Hombre_Maquina\Interfaces_IO_Hombre_Maquina\obj\x86\Debug\Interfaces_IO_Hombre_Maquina.csprojResolveAssemblyReference.cache
+C:\Users\hazael.mojica.garcia\Google Drive\Dropbox\drive\Update\Interfaces_IO_Proyecto\Interfaces_IO_Hombre_Maquina\Interfaces_IO_Hombre_Maquina\obj\x86\Debug\Interfaces_IO_Hombre_Maquina.Form_Main.resources
+C:\Users\hazael.mojica.garcia\Google Drive\Dropbox\drive\Update\Interfaces_IO_Proyecto\Interfaces_IO_Hombre_Maquina\Interfaces_IO_Hombre_Maquina\obj\x86\Debug\Practica2_LabDSM.Properties.Resources.resources
+C:\Users\hazael.mojica.garcia\Google Drive\Dropbox\drive\Update\Interfaces_IO_Proyecto\Interfaces_IO_Hombre_Maquina\Interfaces_IO_Hombre_Maquina\obj\x86\Debug\Interfaces_IO_Hombre_Maquina.csproj.GenerateResource.Cache
+C:\Users\hazael.mojica.garcia\Google Drive\Dropbox\drive\Update\Interfaces_IO_Proyecto\Interfaces_IO_Hombre_Maquina\Interfaces_IO_Hombre_Maquina\obj\x86\Debug\Practica2_LabDSM.exe
+C:\Users\hazael.mojica.garcia\Google Drive\Dropbox\drive\Update\Interfaces_IO_Proyecto\Interfaces_IO_Hombre_Maquina\Interfaces_IO_Hombre_Maquina\obj\x86\Debug\Practica2_LabDSM.pdb
